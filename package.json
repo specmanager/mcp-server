@@ -23,7 +23,7 @@
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
-    "@specmanager/mcp-server": "dist/index.js",
+    "mcp-server": "dist/index.js",
     "specmanager-mcp": "dist/index.js",
     "specmanager-mcp-http": "dist/index-http.js"
   },
