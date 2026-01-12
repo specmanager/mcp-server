@@ -1,6 +1,6 @@
 {
   "name": "@specmanager/mcp-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Task execution MCP server - connects to specmanager.ai",
   "keywords": [
     "mcp",
